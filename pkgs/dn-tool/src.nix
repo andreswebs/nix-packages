@@ -6,6 +6,6 @@
 fetchFromGitHub {
   owner = "andreswebs";
   repo = "dn-tool";
-  rev = "v0.0.1";
-  hash = "sha256-uohchzGaI/z4kgHk912kJzI3yL/+pZegu35lrsFRiVs=";
+  rev = "v0.0.3";
+  hash = "sha256-TDBkE4BRqnOeguOnFUCXaPqLzfjAIZIelJvFp+C0xxQ=";
 }

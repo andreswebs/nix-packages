@@ -6,7 +6,7 @@
 # nothing needs duplicating here.
 {
   pkgs,
-  version ? "0.0.1",
+  version ? "0.0.3",
 }:
 let
   src = pkgs.callPackage ./src.nix { };
